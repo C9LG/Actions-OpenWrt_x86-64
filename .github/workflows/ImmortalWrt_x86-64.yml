@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: ImmortalWrt_x86-64 OpenWrt Builder
 
 on:
   repository_dispatch:
