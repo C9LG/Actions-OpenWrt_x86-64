@@ -15,15 +15,9 @@ A template for building OpenWrt with GitHub Actions
 
 ## Credits
 
-- [OpenWrt](https://github.com/openwrt/openwrt)
-- [1715173329/ImmortalWrt](https://github.com/immortalwrt/immortalwrt)
+- [1715173329/ImmortalWrt](https://github.com/immortalwrt/immortalwrt/tree/openwrt-23.05)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
 - [Lienol/OpenWrt](https://github.com/Lienol/openwrt)
-- [Mikubill/transfer](https://github.com/Mikubill/transfer)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
-- [Mattraks/delete-workflow-runs](https://github.com/Mattraks/delete-workflow-runs)
-- [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
-- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 
 ## License
 
