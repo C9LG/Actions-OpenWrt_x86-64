@@ -17,7 +17,6 @@ A template for building OpenWrt with GitHub Actions
 
 - [1715173329/ImmortalWrt](https://github.com/immortalwrt/immortalwrt/tree/openwrt-24.10)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
-- [Lienol/OpenWrt](https://github.com/Lienol/openwrt)
 
 ## License
 
