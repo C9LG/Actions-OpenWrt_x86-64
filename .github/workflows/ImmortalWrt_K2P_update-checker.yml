@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: LEDE_x86-64 Update Checker
+name: ImmortalWrt_K2P Update Checker
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
