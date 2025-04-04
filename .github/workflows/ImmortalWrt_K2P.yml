@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: LEDE_x86-64 Builder
+name: ImmortalWrt_K2P Builder
 
 on:
   repository_dispatch:
