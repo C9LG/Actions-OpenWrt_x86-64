@@ -10,11 +10,11 @@
 # See /LICENSE for more information.
 #
 
-name: ImmortalWrt_K2P Update Checker
+name: LEDE_K2P Update Checker
 
 env:
-  REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: openwrt-24.10
+  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_BRANCH: master
 
 on:
   workflow_dispatch:
